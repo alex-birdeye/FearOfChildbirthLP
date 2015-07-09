@@ -160,7 +160,23 @@ a, a:hover, a:active, a:focus {
     color: #747d93;
 }
 
+.comment_person > img {
+    position: absolute;
+    left: 10%;
+}
 
+.comment_person > p {
+    position: absolute;
+    left: 40%;
+}
+
+.comment_text > p {
+    width: 90%;
+}
+
+.comment_block {
+    margin-bottom: 20px;
+}
 
 /* 3. TYPOGRAPHY */
 
